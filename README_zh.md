@@ -1,5 +1,5 @@
 # DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments
-
+test
 <div align="center">
 
 [![论文](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2507.21981)
