@@ -1,4 +1,3 @@
-# DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments
 
 
 
